@@ -424,7 +424,7 @@ left: 43%;
     text-align: center;
     align-items: center;
     justify-content: center;
-    margin-top: 4%;
+    margin-top: 3%;
     font-size: 100%;
       color: white;
  
@@ -436,7 +436,7 @@ left: 43%;
       transform: rotate(180deg);
       width: 100%;
       position: absolute;
-      top: 48%;
+      top: 50%;
   }
  .me{
       height:63%; 
